@@ -1,4 +1,0 @@
-LeapMotion
-==========
-
-LeapMotion Rework Gestures
